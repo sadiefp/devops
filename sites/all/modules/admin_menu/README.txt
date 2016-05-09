@@ -1,5 +1,5 @@
 
--- SUMMARY --
+-- SUM SUM SUMMARY --
 
 The Administration menu module displays the entire administrative menu tree (and
 most local tasks) in a drop-down menu, providing administrators one- or
