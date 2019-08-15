@@ -1,4 +1,4 @@
-Ticket: gh-
+Fixes Ticket(s): gh-
 
 ## Description of Changes
 
